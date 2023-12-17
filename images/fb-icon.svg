@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>1465173407_facebook-square-social-media</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1465173407_facebook-square-social-media">
+            <g id="Group">
+                <g id="soical">
+                    <g id="social">
+                        <g id="square-black" fill="#304882">
+                            <path d="M57.004063,0 C58.658673,0 60,1.33730974 60,2.99593743 L60,57.0040626 C60,58.6586731 58.66269,60 57.004063,60 L2.995937,60 C1.341327,60 0,58.6626903 0,57.0040626 L0,2.99593743 C0,1.34132688 1.33731,0 2.995937,0 L57.004063,0 Z" id="square-2"></path>
+                        </g>
+                        <g id="icon" transform="translate(21.000000, 12.000000)" fill="#FFFFFF">
+                            <path d="M4.462224,35.314313 L4.462224,17.9989613 L0.943289,17.9989612 L0.943289,12.2593563 L4.462224,12.2593563 L4.462224,8.78838641 C4.462224,4.10664222 5.861995,0.730618986 10.988102,0.730618986 L17.08636,0.730618986 L17.08636,6.45843996 L12.792255,6.45843996 C10.641894,6.45843996 10.151874,7.8873763 10.151874,9.38376095 L10.151874,12.2593553 L16.769423,12.2593558 L15.866173,17.9989613 L10.151874,17.9989613 L10.151874,35.3143123 L4.462224,35.314313 L4.462224,35.314313 Z" id="facebook"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Brandon Grotesque Test";
+    src: url('fonts/HvDTrial_Brandon_Grotesque_bold.woff') format('woff');
+    font-weight: bolder;
+}
+
+@font-face {
+    font-family: "Brandon Grotesque Test";
+    src: url('fonts/HvDTrial_Brandon_Grotesque_medium.woff') format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Brandon Grotesque Test";
+    src: url('fonts/HvDTrial_Brandon_Grotesque_regular.woff') format('woff');
+    font-weight: normal;
+}
+
+body {
+    font-family: 'Brandon Grotesque Test';
+}
+
+#menu-mobile {
+    display: none;
+}
+
+a:hover {
+    color: #51B24F;
+}
+
